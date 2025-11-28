@@ -1,0 +1,8 @@
+train: ./data/images/train
+val: ./data/images/val
+
+names:
+  - o_to
+  - xe_buyt
+  - xe_tai
+  - xe_may
